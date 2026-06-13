@@ -35,6 +35,7 @@ python -m unittest 또는 pytest
 python src/monitor.py
 
 8. Docker 실행
+
 docker build -t cardiocare:1.0 .
 
 docker run cardiocare:1.0
